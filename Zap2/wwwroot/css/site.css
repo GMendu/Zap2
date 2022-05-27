@@ -1,0 +1,43 @@
+html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+    background-color: #1FBFA7;
+}
+
+.bg-zap {
+    background-color: #1BA691;
+}
+
+.scrollagem {
+    height: 80vh;
+    overflow: auto;
+    background-color: #21CCB2;
+}
+
+    .scrollagem li {
+        color: white;
+        background-color: #14806F;
+        border-radius: 3px;
+        margin: 2px;
+        padding: 1px;
+        font-size: 22px;
+        font-weight: 300;
+    }
+
+#messageInput{
+    width: 95%;
+}
