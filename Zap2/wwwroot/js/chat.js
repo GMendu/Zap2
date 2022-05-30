@@ -12,30 +12,29 @@ connection.on("ReceiveMessage", function (user, message) {
     // is not interpreted as markup. If you're assigning in any other way, you 
     // should be aware of possible script injection concerns.
     const d = new Date();
-
-
     li.textContent = `${d.getHours()}:${d.getMinutes()} - ${user}: ${message}`;
+    $('#messageInput').val("");
+    window.setTimeout(scrollDown, 5)
 });
 
 connection.start().then(function () {
     document.getElementById("sendButton").disabled = false;
-}).catch(function (err) {
-    return console.error(err.toString());
+}).catch(function (erro) {
+    return console.error(erro.toString());
 });
 
 document.getElementById("sendButton").addEventListener("click", function (event) {
-    var user = document.getElementById("userInput").value;
-    var message = document.getElementById("messageInput").value;
-    connection.invoke("SendMessage", user, message).catch(function (err) {
-        return console.error(err.toString());
+    var user = $("#userInput").val();
+    var message = $("#messageInput").val();
+    connection.invoke("SendMessage", user, message).catch(function (erro) {
+        return console.error(erro.toString());
     });
-    $('#messageInput').val("");
-    window.setTimeout(scrollDown, 5)
+
     
     event.preventDefault();
 });
 
 function scrollDown() {
-    var objDiv = document.getElementById("scroll");
+    var objDiv = $('#scroll')[0] /*document.getElementById("scroll");*/
     objDiv.scrollTop = objDiv.scrollHeight;
 }
