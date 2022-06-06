@@ -1,0 +1,17 @@
+{
+    "name": "Whatsapp 2",
+    "short_name": "Zap 2",
+    "description": "Agora com salas",
+    "icons": [
+        {
+            "src": "/img/logo192.png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "/img/logo512.png",
+            "sizes": "512x512"
+        }
+    ],
+    "display": "standalone",
+    "start_url": "/"
+}
