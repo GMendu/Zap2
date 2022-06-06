@@ -24,7 +24,7 @@
         <hr />
     </div>
 </div>*@
-        <div id="bemvindo">Bem vindo </div>
+        <div id="bemvindo">Bem vindo </div> <button id="sair">Sair</button>
 
 <div id="scroll" class="scrollagem">
         <ul id="messagesList"></ul>
@@ -36,6 +36,7 @@
     <form name="Mensagem" target="#here" method="post" autocomplete="off">
     <div class="form">
         <div><input type="hidden" disabled id="userInput"/></div>
+        <div><input type="hidden" disabled id="roomInput"/></div>
     </div>
     <div>
         <div><input type="text" id="messageInput" placeholder="Digite sua mensagem aqui..."/>  <input type="submit" id="sendButton" value="Enviar" /></div>
@@ -58,6 +59,14 @@
                     <i class="fas fa-envelope prefix grey-text"></i>
                     <input placeholder="Seu apelido"type="text" id="name" class="form-control">
                     @*<label for="name">Seu apelido</label>*@
+                </div>
+                
+
+                <div class="md-form mb-4">
+                    <i class="fas fa-lock prefix grey-text"></i>
+                    
+                    <input placeholder="Código da sala" type="text" id="room" class="form-control">
+                   
                 </div>
 @*
                 <div class="md-form mb-4">

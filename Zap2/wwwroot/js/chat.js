@@ -13,7 +13,17 @@ connection.on("ReceiveMessage", function (user, message) {
     // should be aware of possible script injection concerns.
     const d = new Date();
     li.textContent = `${d.getHours()}:${d.getMinutes()} - ${user}: ${message}`;
-    $('#messageInput').val("");
+    window.setTimeout(scrollDown, 5)
+});
+
+connection.on("ReceiveJoin", function (user, message) {
+    var li = document.createElement("li");
+    document.getElementById("messagesList").appendChild(li);
+    // We can assign user-supplied strings to an element's textContent because it
+    // is not interpreted as markup. If you're assigning in any other way, you 
+    // should be aware of possible script injection concerns.
+    const d = new Date();
+    li.textContent = `${d.getHours()}:${d.getMinutes()} - ${user}: ${message}`;
     window.setTimeout(scrollDown, 5)
 });
 
@@ -23,15 +33,35 @@ connection.start().then(function () {
     return console.error(erro.toString());
 });
 
+document.getElementById("entrar").addEventListener("click", function (event) {
+    var room = $("#room").val();
+    var user = $("#name").val();
+    var message = "";
+    connection.invoke("SendMessage", user, message, room, 1).catch(function (err) {
+        return console.error(err.toString());
+    });
+    event.preventDefault();
+});
+
+document.getElementById("sair").addEventListener("click", function (event) {
+    var user = $("#userInput").val();
+    var message = $("#messageInput").val();
+    var room = $("#roomInput").val();
+    connection.invoke("SendMessage", user, message, room, 2).catch(function (err) {
+        return console.error(err.toString());
+    });
+    event.preventDefault();
+});
+
 document.getElementById("sendButton").addEventListener("click", function (event) {
     var user = $("#userInput").val();
     var message = $("#messageInput").val();
-    connection.invoke("SendMessage", user, message).catch(function (erro) {
+    var room = $("#roomInput").val();
+    connection.invoke("SendMessage", user, message,room, 0).catch(function (erro) {
         return console.error(erro.toString());
     });
-
-    
     event.preventDefault();
+    $('#messageInput').val("");
 });
 
 function scrollDown() {
