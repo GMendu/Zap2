@@ -21,6 +21,10 @@ namespace Zap2.Hubs
             if (opcao == 0)
             {
                 await Clients.Group(room).SendAsync("ReceiveMessage", user, message).ConfigureAwait(true);
+                using (StreamWriter w = File.AppendText(@"C:\Users\Aluno\Source\Repos\GMendu\Zap2\Zap2\wwwroot\log.txt"))
+                {
+                    w.WriteLine($"[{DateTime.Now}]{room} - {user}: {message}");
+                }
             }
             else
             if (opcao == 1)

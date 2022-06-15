@@ -29,6 +29,8 @@ body {
 }
 
     .scrollagem li {
+        width: 51%;
+        overflow-wrap: anywhere;
         color: white;
         background-color: #14806F;
         border-radius: 3px;
@@ -40,4 +42,17 @@ body {
 
 #messageInput{
     width: 95%;
+}
+
+.entrou {
+    margin: auto;
+    text-align: center;
+}
+
+.usuario1{
+    float: right;
+}
+
+.usuario2{
+    float: left;
 }
