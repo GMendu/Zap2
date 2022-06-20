@@ -24,26 +24,30 @@
         <hr />
     </div>
 </div>*@
-        <div id="bemvindo">Bem vindo </div> <button id="sair">Sair</button>
+<div class="mid d-flex flex-column">
+    <div class="d-flex flex-row p-2">
+    <div class="p-2 iconeGrupo letraBranca"><i style="font-size:45px" class="fa fa-circle-user"></i></div><div class="p-2 nomeGrupo letraBranca">Visitante </div><a style="font-size:20px;-moz-text-decoration-color:none;:"id="sair" class="p-2 letraBranca"><i class="fa fa-right-from-bracket"></i>       </a>
+    </div>
 
-<div id="scroll" class="scrollagem">
+<div id="scroll" class="p-2 scrollagem">
         <ul id="messagesList"></ul>
 </div>
-
-
-
-<div class="container">
+<div class="fake"></div>
+<div class="p-2 container">
     <form name="Mensagem" target="#here" method="post" autocomplete="off">
     <div class="form">
         <div><input type="hidden" disabled id="userInput"/></div>
         <div><input type="hidden" disabled id="roomInput"/></div>
     </div>
     <div>
-        <div><input type="text" id="messageInput" placeholder="Digite sua mensagem aqui..."/>  <input type="submit" id="sendButton" value="Enviar" /></div>
+        <div><input type="text" id="messageInput" placeholder="Digite sua mensagem aqui..."/><input type="submit" id="sendButton" value="Enviar" /><i class="fa- fa-paper-plane letraBranca"></i></div>
     </div>
     </form>
 </div>
 
+
+
+</div>
 <div id="modalLoginForm" class="modal fade" id="modalLoginForm" tabindex="-1" role="dialog" aria-labelledby="myModalLabel"
      aria-hidden="true">
     <div class="modal-dialog" role="document">
@@ -83,6 +87,7 @@
         </div>
     </div>
 </div>
+
 
 
 

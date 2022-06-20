@@ -1,67 +1,129 @@
-[15/06/2022 16:34:27]123434 - gabrel: oi
-[15/06/2022 16:34:27]123434 - gabrel: tes
-[15/06/2022 16:34:28]123434 - gabrel: teste
-[15/06/2022 16:34:29]123434 - gabrel: oi
-[15/06/2022 16:34:30]123434 - gabrel: oi
-[15/06/2022 16:34:32]123434 - gabrel: oi
-[15/06/2022 16:34:32]123434 - gabrel: oi
-[15/06/2022 16:34:32]123434 - gabrel: oi
-[15/06/2022 16:34:33]123434 - gabrel: oi
-[15/06/2022 17:08:54]3123123 - 123123: eaedceaefdsafasJJKeaedceaefdsafasJJKeaedceaefdsafasJJKeaedceaefdsafasJJKeaedceaefdsafasJJKeaedceaefdsafasJJKeaedceaefdsafasJJKeaedceaefdsafasJJKeaedceaefdsafasJJKeaedceaefdsafasJJKeaedceaefdsafasJJKeaedceaefdsafasJJKeaedceaefdsafasJJKeaedceaefdsafasJJKeaedceaefdsafasJJKeaedceaefdsafasJJKeaedceaefdsafasJJKeaedceaefdsafasJJKeaedceaefdsafasJJKeaedceaefdsafasJJKeaedceaefdsafasJJK
-[15/06/2022 17:14:24]1234 - Gabriel: oi
-[15/06/2022 17:14:25]1234 - Gabriel: teste
-[15/06/2022 17:15:18]12321 - 123123: teste
-[15/06/2022 17:15:19]12321 - 123123: oiii
-[15/06/2022 17:15:30]1234 - gabr: oi
-[15/06/2022 17:15:30]1234 - gabr: 
-[15/06/2022 17:17:04]1233 - gabr1234: oi
-[15/06/2022 17:17:05]1233 - gabr1234: oi
-[15/06/2022 17:17:05]1233 - gabr1234: oi
-[15/06/2022 17:17:05]1233 - gabr1234: oi
-[15/06/2022 17:17:05]1233 - gabr1234: oi
-[15/06/2022 17:17:06]1233 - gabr1234: oi
-[15/06/2022 17:17:06]1233 - gabr1234: oi
-[15/06/2022 17:17:26]1233 - eeeee: oio
-[15/06/2022 17:17:26]1233 - eeeee: oi
-[15/06/2022 17:17:27]1233 - eeeee: oi
-[15/06/2022 17:20:02]1234 - gabr123: oii
-[15/06/2022 17:20:40]123 - aadsad: asd
-[15/06/2022 17:20:42]123 - aadsad: asd
-[15/06/2022 17:20:42]123 - aadsad: asd
-[15/06/2022 17:20:43]123 - aadsad: asd
-[15/06/2022 17:20:43]123 - aadsad: asd
-[15/06/2022 17:20:59]123 - gabr: oi
-[15/06/2022 17:21:25]1234 - gabr: oi
-[15/06/2022 17:21:44]123 - asdsad: asd
-[15/06/2022 17:21:45]123 - asdsad: asd
-[15/06/2022 17:21:48]1234 - gabr: oi tudo bom
-[15/06/2022 17:21:54]123 - asdsad: asd
-[15/06/2022 17:21:57]123 - asdsad: asd
-[15/06/2022 17:21:58]123 - asdsad: adas
-[15/06/2022 17:21:59]123 - asdsad: czxc
-[15/06/2022 17:22:33]123 - gabr: oi
-[15/06/2022 17:22:40]123 - asdsad: oi
-[15/06/2022 17:22:45]123 - gabr: oiii
-[15/06/2022 17:23:59]123 - gabr: oi
-[15/06/2022 17:24:13]123 - gabr: oi
-[15/06/2022 17:24:14]123 - gabr: oi
-[15/06/2022 17:24:25]123 - asdsad: asd
-[15/06/2022 17:26:31]123 - gabr: oi
-[15/06/2022 17:26:32]123 - gabr: oi
-[15/06/2022 17:26:32]123 - gabr: oi
-[15/06/2022 17:31:21]123 - asdasd: asdasd
-[15/06/2022 17:31:23]123 - asdasd: asd
-[15/06/2022 17:31:24]123 - asdasd: asd
-[15/06/2022 17:31:25]123 - asdasd: asd
-[15/06/2022 17:31:31]123 - gabr: oi
-[15/06/2022 17:31:36]123 - gabr: oi
-[15/06/2022 17:31:41]123 - asdasd: sdasd
-[15/06/2022 17:31:44]123 - gabr: oi
-[15/06/2022 17:31:45]123 - gabr: oi
-[15/06/2022 17:31:46]123 - gabr: oi
-[15/06/2022 17:31:47]123 - asdasd: sads
-[15/06/2022 17:31:47]123 - asdasd: asd
-[15/06/2022 17:31:48]123 - asdasd: asd
-[15/06/2022 17:31:48]123 - asdasd: asd
-[15/06/2022 17:31:48]123 - asdasd: asd
-[15/06/2022 17:31:48]123 - asdasd: asd
+[20/06/2022 15:49:26]123 - gabr: oi
+[20/06/2022 15:49:28]123 - gabr: oi
+[20/06/2022 15:49:53]123 - gabr: oi,
+[20/06/2022 15:49:53]123 - gabr: 
+[20/06/2022 15:49:54]123 - gabr: oi
+[20/06/2022 15:49:54]123 - gabr: oi
+[20/06/2022 15:49:55]123 - gabr: oi
+[20/06/2022 15:50:20]123 - gabr: oi
+[20/06/2022 15:50:32]123 - asdasd: asdd
+[20/06/2022 15:50:33]123 - asdasd: asd
+[20/06/2022 15:50:34]123 - asdasd: asd
+[20/06/2022 15:50:35]123 - asdasd: asd
+[20/06/2022 15:50:52]123 - gabr: oi
+[20/06/2022 15:50:54]123 - gabr: tudo bom?
+[20/06/2022 15:51:10]123 - asdasd: oi
+[20/06/2022 15:53:37]123 - gabr: oi
+[20/06/2022 15:53:37]123 - gabr: oi
+[20/06/2022 15:53:38]123 - gabr: oi
+[20/06/2022 15:53:38]123 - gabr: oi
+[20/06/2022 15:53:39]123 - gabr: oi
+[20/06/2022 15:53:39]123 - gabr: oi
+[20/06/2022 15:55:10]1234 - GABRIEL MENDONCA LIBANO SOARES: oi
+[20/06/2022 16:06:03]1 - Preguiça: 
+[20/06/2022 16:06:12]1 - Preguiça: Oi eu tenho um belo Pinto
+[20/06/2022 16:06:13]1 - Preguiça: 
+[20/06/2022 16:06:13]1 - Preguiça: 
+[20/06/2022 16:06:14]1 - Preguiça: 
+[20/06/2022 16:06:18]1 - Preguiça: Big
+[20/06/2022 16:06:29]1 - Preguiça: Eu sou ladrão
+[20/06/2022 16:06:37]1 - Preguiça: Rodas fala esse e ladrão
+[20/06/2022 16:06:37]1 - Preguiça: 
+[20/06/2022 16:07:09]123 - xespiritus: kkkkkkkkkkkkkkkkkkkk
+[20/06/2022 16:07:12]123 - gabr: salve
+[20/06/2022 16:08:12]123 - xespiritus: 🥸🧐🥸🧐🥸🧐🥸🧐🥸🧐🥸🧐🥸🧐
+[20/06/2022 16:09:01]123 - xespiritus: 🥸🧐🇺🇳🥸🧐🇺🇳🥸🧐🇺🇳
+[20/06/2022 16:09:41]123 - Vago: Olha
+[20/06/2022 16:09:41]123 - gabr: 1 picas = 12 pintos
+[20/06/2022 16:09:52]123 - Vago: Eu tenho um ligeiro picas
+[20/06/2022 16:12:50]123 - gabr: 213213
+[20/06/2022 16:12:50]123 - gabr: 321
+[20/06/2022 16:12:50]123 - gabr: 
+[20/06/2022 16:13:11]123 - gabriel: oii
+[20/06/2022 16:13:13]123 - gabriel: oi
+[20/06/2022 16:13:14]123 - gabriel: oi
+[20/06/2022 16:13:15]123 - gabriel: oi
+[20/06/2022 16:13:36]123 - xespiritus: oiiiiiiiiiiiiiiiiiiiiiii
+[20/06/2022 16:14:06]123 - xespiritus: porra recheada
+[20/06/2022 16:15:25]123 - gabriel: oi
+[20/06/2022 16:15:30]123 - gabriel: oi
+[20/06/2022 16:15:44]123 - xespiritus: oi
+[20/06/2022 16:15:45]123 - xespiritus: oi
+[20/06/2022 16:15:46]123 - xespiritus: oi
+[20/06/2022 16:15:46]123 - xespiritus: oi
+[20/06/2022 16:15:46]123 - xespiritus: oi
+[20/06/2022 16:15:46]123 - gabriel: oi
+[20/06/2022 16:15:47]123 - xespiritus: oioi
+[20/06/2022 16:15:47]123 - xespiritus: oioio
+[20/06/2022 16:15:47]123 - xespiritus: i
+[20/06/2022 16:15:48]123 - xespiritus: oioio
+[20/06/2022 16:15:48]123 - xespiritus: ioio
+[20/06/2022 16:15:48]123 - xespiritus: io
+[20/06/2022 16:15:49]123 - xespiritus: ioio
+[20/06/2022 16:15:49]123 - xespiritus: io
+[20/06/2022 16:15:49]123 - xespiritus: i
+[20/06/2022 16:15:50]123 - xespiritus: ooo
+[20/06/2022 16:15:57]123 - xespiritus: f
+[20/06/2022 16:15:58]123 - xespiritus: dfgd
+[20/06/2022 16:15:58]123 - xespiritus: fg
+[20/06/2022 16:15:58]123 - xespiritus: fdg
+[20/06/2022 16:15:58]123 - xespiritus: df
+[20/06/2022 16:15:59]123 - xespiritus: gdf
+[20/06/2022 16:15:59]123 - xespiritus: g
+[20/06/2022 16:15:59]123 - xespiritus: fdg
+[20/06/2022 16:16:00]123 - xespiritus: fdgdf
+[20/06/2022 16:16:00]123 - xespiritus: gd
+[20/06/2022 16:16:00]123 - xespiritus: fg
+[20/06/2022 16:16:00]123 - xespiritus: dfhd
+[20/06/2022 16:16:01]123 - xespiritus: fhdzdf
+[20/06/2022 16:16:02]123 - xespiritus: sfgh
+[20/06/2022 16:16:02]123 - xespiritus: sdg
+[20/06/2022 16:16:03]123 - xespiritus: dsgvbxv
+[20/06/2022 16:16:04]123 - xespiritus: gdgdf
+[20/06/2022 16:16:19]123 - gabr: dsada
+[20/06/2022 16:16:26]123 - xespiritus: No alto daquele cume Plantei uma roseira O vento no cume bate A rosa no cume cheira Quando vem a chuva fina Salpicos no cume caem Formigas no cume entram Abelhas do cume me saem Quando cai a chuva grossa A água do cume desce O barro do cume escorre O mato no cume cresce Então quando cessa a chuva No cume volta a alegria Pois torna a brilhar de novo O sol que no cume ardia No alto daquele cume Plantei uma roseira O vento no cume bate A rosa no cume cheira Quando vem a chuva fina (No seu aro, aro) Salpicos no cume caem (No seu aro, aro) Formigas no cume entram (No seu aro, aro) Abelhas do cume me saem (No meu aro, aro) Quando cai a chuva grossa A água do cume desce O barro do cume escorre O mato no cume cresce Então quando cessa a chuva No cume volta a alegria Pois torna a brilhar de novo O sol que no cume ardia Pois torna a brilhar de novo O sol que no cume ardia Pois torna a brilhar de novo O sol que no cume... Ardia! Ohhhh meu bem!
+[20/06/2022 16:17:36]123 - gabriel: oi
+[20/06/2022 16:17:38]123 - gabriel: oi
+[20/06/2022 16:17:39]123 - gabriel: oi
+[20/06/2022 16:17:43]123 - aa: vcxvx
+[20/06/2022 16:20:00]123 - Leo: oii
+[20/06/2022 16:21:24]123 - Leo: bbbb
+[20/06/2022 16:21:32]123 - gabriel: nardo?
+[20/06/2022 16:21:35]123 - gabriel: salgado?
+[20/06/2022 16:21:37]123 - gabriel: delgado?
+[20/06/2022 16:21:47]123 - gabriel: gado?
+[20/06/2022 16:24:11]123 - Leo: teu pai
+[20/06/2022 16:35:36]123 - sdasd: dasdad
+[20/06/2022 16:35:45]123 - gabriel: oi
+[20/06/2022 16:35:45]123 - gabriel: oi
+[20/06/2022 16:35:46]123 - gabriel: oi
+[20/06/2022 16:38:26]123 - gabr: oi
+[20/06/2022 16:39:21]123 - gabr: ii
+[20/06/2022 16:39:32]123 - aoda: oi
+[20/06/2022 16:39:33]123 - aoda: oi
+[20/06/2022 16:41:52]123 - gabr: ddsdsda
+[20/06/2022 16:41:52]123 - gabr: ds
+[20/06/2022 16:41:52]123 - gabr: d
+[20/06/2022 16:41:52]123 - gabr: a
+[20/06/2022 16:41:53]123 - gabr: dsa
+[20/06/2022 16:41:53]123 - gabr: 
+[20/06/2022 16:41:53]123 - gabr: das
+[20/06/2022 16:42:00]123 - aoda: oi
+[20/06/2022 16:42:01]123 - aoda: oi
+[20/06/2022 16:42:01]123 - aoda: oi
+[20/06/2022 16:42:01]123 - aoda: oi
+[20/06/2022 16:42:01]123 - aoda: oi
+[20/06/2022 16:42:02]123 - aa: sdasdsadas
+[20/06/2022 16:42:02]123 - aoda: oi
+[20/06/2022 16:42:02]123 - aoda: oi
+[20/06/2022 16:42:02]123 - aoda: oi
+[20/06/2022 16:42:02]123 - aoda: oi
+[20/06/2022 16:42:03]123 - aoda: oi
+[20/06/2022 16:42:03]123 - aoda: oi
+[20/06/2022 16:42:03]123 - aoda: oi
+[20/06/2022 16:50:08]123 - gabr: aa
+[20/06/2022 17:21:31]123 - gabrielga: oi
+[20/06/2022 17:21:32]123 - gabrielga: oi
+[20/06/2022 17:21:32]123 - gabrielga: oi
+[20/06/2022 17:21:33]123 - gabrielga: oi
+[20/06/2022 17:21:33]123 - gabrielga: 
