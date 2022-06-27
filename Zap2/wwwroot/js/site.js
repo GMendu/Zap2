@@ -4,14 +4,9 @@
 // Write your JavaScript code.
 
 $(function () {
-    $('#modalLoginForm').modal('show')
     $('#entrar').click(function () {
         var nome = $('#name').val()
         var sala = $('#room').val()
-        $('#userInput').val(nome)
-        $('#roomInput').val(sala)
-        $('#modalLoginForm').modal('hide')
-        $('#bemvindo').text('Bem Vindo, '+nome)
     })
 });
 

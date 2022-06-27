@@ -13,10 +13,22 @@ namespace Zap2.Controllers
             _logger = logger;
         }
 
-        public IActionResult Index()
+
+        public IActionResult Login()
         {
             return View();
         }
+
+        [HttpPost]
+        public IActionResult Index(string name, string room)
+        {
+            ViewBag.Name = name;
+            ViewBag.Room = room;
+
+            return View();
+        }
+
+
 
         public IActionResult Privacy()
         {

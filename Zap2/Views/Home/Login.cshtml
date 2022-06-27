@@ -1,0 +1,59 @@
+﻿@page
+
+<div class="mid d-flex flex-column">
+    
+
+
+
+     @using (Html.BeginForm("Index", "Home", FormMethod.Post))
+    {
+         @Html.TextBox("Name")
+         @Html.TextBox("Room")
+         <input type="submit" value="Submit"/>
+    }
+
+<div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header text-center head-site">
+                <h4 class="modal-title w-100 font-weight-bold">Entrar no chat</h4>
+                @*<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>*@
+            </div>
+            <div class="modal-body mx-3 mid-site">
+                <div class="md-form mb-5">
+                    <i class="fas fa-envelope prefix grey-text"></i>
+                    <input placeholder="Seu apelido"type="text" id="name" class="form-control">
+                    @*<label for="name">Seu apelido</label>*@
+                </div>
+                
+
+                <div class="md-form mb-4">
+                    <i class="fas fa-lock prefix grey-text"></i>
+                    
+                    <input placeholder="Código da sala" type="text" id="room" class="form-control">
+                   
+                </div>
+@*
+                <div class="md-form mb-4">
+                    <i class="fas fa-lock prefix grey-text"></i>
+                    <input type="password" id="defaultForm-pass" class="form-control validate">
+                    <label data-error="wrong" data-success="right" for="defaultForm-pass">Your password</label>
+                </div>*@
+
+            </div>
+            <div class="modal-footer d-flex justify-content-center bot-site">
+                
+                <button id="entrar" class="btn btn-default">Entrar</button>
+            </div>
+        </div>
+    </div>
+
+
+
+</div>
+
+
+
+
+<script src="~/js/site.js"></script>
