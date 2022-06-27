@@ -40,10 +40,12 @@ connection.start().then(function () {
 }).catch(function (erro) {
     return console.error(erro.toString());
 });
+$(function () {
+    
 
 document.getElementById("entrar").addEventListener("click", function (event) {
-    var room = $("#room").val();
-    var user = $("#name").val();
+    var room = $("#roomInput").val();
+    var user = $("#userInput").val();
     var message = "";
     connection.invoke("SendMessage", user, message, room, 1).catch(function (err) {
         return console.error(err.toString());
@@ -70,6 +72,8 @@ document.getElementById("sendButton").addEventListener("click", function (event)
     });
     event.preventDefault();
     $('#messageInput').val("");
+});
+
 });
 
 function scrollDown() {
